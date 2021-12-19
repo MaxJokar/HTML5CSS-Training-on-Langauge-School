@@ -1,0 +1,42 @@
+h1,h2{
+    color:red ;
+    background:#2525a0;  
+
+}
+
+.c1{
+width: 2000px;
+height: 150px;
+
+}
+
+.c2{
+    text-align: center;
+
+}
+.c3{
+    color: rgb(9, 10, 1);
+    background: rgb(235, 156, 9);
+}
+
+.c5{
+    color:rgb(230, 202, 202);
+    background:rgb(124, 13, 228);
+}
+
+#andy{
+      /* background: khaki; */
+      background: #ff0000;
+      color:#ffffff;
+      padding: 50px 50px 60px 50px;
+      /* padding: 10px; */
+      margin: 150px;
+      text-align: justify;
+      border: 5px solid #00ff00;
+      /* border-radius: 20px; */
+      border-radius: 40px  0   20px 30px;
+}
+
+/* body{
+    direction: rtl;
+} */
